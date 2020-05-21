@@ -4,7 +4,7 @@ mlflow
 [MLFlow](https://mlflow.org/) is an open source platform specialized in tracking ML experiments, and packaging and deploying ML models.
 
 
-Current chart version is `1.0.1`
+Current chart version is `1.0.2`
 
 ---
 
@@ -55,7 +55,7 @@ backendStore:
     username: my_user
     password: my_password
     host: my_host
-    port: 5342
+    port: 5432
     database: my_db
 ```
 
